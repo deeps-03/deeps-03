@@ -1,22 +1,22 @@
-#  Hi, I'm Deepak!
+#  Hi, I'm Deepak! 👋
 
-Welcome to my GitHub! I'm a passionate tech enthusiast currently interning at **Relevance Lab**, where I dive deep into the worlds of **DevOps** and **AI/ML**. I love building scalable systems, automating workflows, and exploring the intersection of machine intelligence and software engineering. Whether it's designing robust architectures or experimenting with new frameworks, I'm always excited to tackle challenging problems and learn something new.
+Welcome to my GitHub! I'm a passionate tech enthusiast currently interning at **Relevance Lab**, where I dive deep into the worlds of **DevOps** 🚀 and **AI/ML** 🤖. I love building scalable systems, automating workflows, and exploring the intersection of machine intelligence and software engineering. Whether it's designing robust architectures or experimenting with new frameworks, I'm always excited to tackle challenging problems and learn something new.
 
 ---
 
-##  Major Projects
+## 🚀 Major Projects
 
 Here are some of my favorite projects and what went into building them:
 
-###  MERN Expense Tracker
+### 💸 MERN Expense Tracker
 **Tech Stack:** MongoDB, Express.js, React, Node.js  
 *Track and visualize expenses in a modern web app. Add income/expenses, categorize transactions, and get real-time updates on totals with smooth UI and analytics.*
 
-### ️ Real-Time Data Processing System for Weather Monitoring
+### 🌦️ Real-Time Data Processing System for Weather Monitoring
 **Tech Stack:** React, TypeScript, OpenWeatherMap API, Recharts, Docker, TailwindCSS  
 *Monitor and visualize real-time weather data for major Indian cities. Features interactive temperature charts and critical condition alerts.*
 
-### ️ Rule Engine with AST
+### ⚖️ Rule Engine with AST
 **Tech Stack:** Node.js, Docker, MySQL, Express.js, TailwindCSS, Vite  
 *A dynamic 3-tier rule engine that uses Abstract Syntax Trees to evaluate user eligibility. Users can create, modify, and combine dynamic rules with a sleek interface.*
 
@@ -24,23 +24,23 @@ Here are some of my favorite projects and what went into building them:
 **Tech Stack:** Python, JavaScript, HTML, CSS, MySQL  
 *Web application for EV management: track expenses, manage vehicle data, and receive insights on performance and charging. Includes user analytics and robust features.*
 
-###  MedAnnot
+### 🩺 MedAnnot
 **Tech Stack:** React, TypeScript  
 *A web-based medical image viewer and annotation tool, supporting DICOM and other formats. Features advanced image manipulation and annotation for clinical workflows.*
 
-###  Document Scanner & Capture Tool
+### 📄 Document Scanner & Capture Tool
 **Tech Stack:** React, TypeScript, Tesseract.js, jsPDF, TailwindCSS, Vite, Docker  
 *Extracts information from documents (specialized for passports & driver's licenses) using OCR and exports structured data. Containerized for easy deployment.*
 
 ---
 
-##  iOS Development Journey
+## 📱 iOS Development Journey
 
 Currently, I'm diving into **iOS development** using Swift and SwiftUI. Building beautiful, intuitive apps for Apple devices is my next big adventure—stay tuned for updates and new projects!
 
 ---
 
-## ‍ Technical Interests
+## 🧠 Technical Interests
 
 - DevOps
 - AI/ML
@@ -50,13 +50,11 @@ Currently, I'm diving into **iOS development** using Swift and SwiftUI. Building
 
 ---
 
-##  Connect with Me
+## 💬 Connect with Me
 
 Let's collaborate, share ideas, or just geek out about tech!  
 **[LinkedIn: Deepak Suresh](https://www.linkedin.com/in/deepak-suresh03)**
 
 ---
-
-
 
 _Thanks for visiting! Let's build something awesome together._ ✨
