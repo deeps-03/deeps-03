@@ -32,6 +32,14 @@ Here are some of my favorite projects and what went into building them:
 **Tech Stack:** React, TypeScript, Tesseract.js, jsPDF, TailwindCSS, Vite, Docker  
 *Extracts information from documents (specialized for passports & driver's licenses) using OCR and exports structured data. Containerized for easy deployment.*
 
+### 📱 PostHub
+**Tech Stack:** Swift, SwiftUI
+*A dynamic SwiftUI application for viewing, liking, and interacting with posts, featuring robust error handling and mock data fallback.*
+
+### 🛒 RL E-commerce Project
+**Tech Stack:** React (Vite + TypeScript), Redux Toolkit, Material UI, Node.js/Express, MongoDB
+*A full-stack e-commerce application with product, cart, and responsive UI, state management with Redux Toolkit, a Node.js/Express backend with MongoDB, and an implemented CI/CD pipeline with GitHub Actions workflow.*
+
 ---
 
 ## 📱 iOS Development
