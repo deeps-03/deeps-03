@@ -37,8 +37,8 @@ Here are some of my favorite projects and what went into building them:
 *A dynamic SwiftUI application for viewing, liking, and interacting with posts, featuring robust error handling and mock data fallback.*
 
 ### 🛒 RL E-commerce
-**Tech Stack:** React (Vite + TypeScript), Redux Toolkit, Material UI, Node.js/Express, MongoDB
-*A full-stack e-commerce application built with React (Vite + TypeScript), Redux Toolkit, Material UI, Node.js/Express, and MongoDB. It features product and cart management, responsive UI, state management, and a backend API, with an implemented CI/CD pipeline using GitHub Actions.*
+**Tech Stack:** React, Redux Toolkit, Material UI, Node.js/Express, MongoDB
+*A full-stack e-commerce application built with React, Redux Toolkit, Material UI, Node.js/Express, and MongoDB. It features product and cart management, responsive UI, state management, and a backend API, with an implemented CI/CD pipeline using GitHub Actions.*
 
 ---
 
