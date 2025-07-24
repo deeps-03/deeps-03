@@ -34,9 +34,15 @@ Here are some of my favorite projects and what went into building them:
 
 ---
 
-## 📱 iOS Development Journey
+## 📱 iOS Development
 
-Currently, I'm diving into **iOS development** using Swift and SwiftUI. Building beautiful, intuitive apps for Apple devices is my next big adventure—stay tuned for updates and new projects!
+I have worked with **Swift** and **SwiftUI** to build applications for Apple devices.
+
+---
+
+## 🚀 DevOps
+
+I am currently learning DevOps and exploring tools like **Docker** and **Docker Compose**. I am also expanding my knowledge in CI/CD by learning to set up workflows with **GitHub Actions**.
 
 ---
 
