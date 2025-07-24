@@ -12,33 +12,40 @@ Here are some of my favorite projects and what went into building them:
 **Tech Stack:** MongoDB, Express.js, React, Node.js  
 *Track and visualize expenses in a modern web app. Add income/expenses, categorize transactions, and get real-time updates on totals with smooth UI and analytics.*
 
-### 🌦️ Real-Time Data Processing System for Weather Monitoring
+### 🌦️ Real-Time Weather Monitoring System
 **Tech Stack:** React, TypeScript, OpenWeatherMap API, Recharts, Docker, TailwindCSS  
-*Monitor and visualize real-time weather data for major Indian cities. Features interactive temperature charts and critical condition alerts.*
+*A real-time data processing system for monitoring weather conditions in major Indian cities. It retrieves real-time weather data, provides daily summaries with aggregates, visualizes temperature trends, and includes an alerting system for high temperatures, all presented with a responsive design.*
 
 ### ⚖️ Rule Engine with AST
 **Tech Stack:** Node.js, Docker, MySQL, Express.js, TailwindCSS, Vite  
-*A dynamic 3-tier rule engine that uses Abstract Syntax Trees to evaluate user eligibility. Users can create, modify, and combine dynamic rules with a sleek interface.*
+*A 3-tier rule engine system that determines user eligibility based on attributes, using an Abstract Syntax Tree (AST) to dynamically represent and evaluate conditional rules. It allows for the creation, combination, and modification of rules, and includes a new feature for individual feature evaluation to provide granular insights.*
 
 ### ⚡ E_Way – Electric Vehicle Management System
 **Tech Stack:** Python, JavaScript, HTML, CSS, MySQL  
 *Web application for EV management: track expenses, manage vehicle data, and receive insights on performance and charging. Includes user analytics and robust features.*
 
 ### 🩺 MedAnnot
-**Tech Stack:** React, TypeScript  
-*A web-based medical image viewer and annotation tool, supporting DICOM and other formats. Features advanced image manipulation and annotation for clinical workflows.*
+**Tech Stack:** React, TypeScript, Zustand, KonvaJS, Tailwind CSS, Vite, Docker
+*A modern, web-based medical image viewer and annotation tool for viewing and annotating medical images. Features include support for multiple image formats (DICOM, PNG, JPEG, etc.), advanced image manipulation, comprehensive annotation tools, dark/light mode, responsive design, persistent settings, and fast rendering with KonvaJS.*
 
-### 📄 Document Scanner & Capture Tool
-**Tech Stack:** React, TypeScript, Tesseract.js, jsPDF, TailwindCSS, Vite, Docker  
-*Extracts information from documents (specialized for passports & driver's licenses) using OCR and exports structured data. Containerized for easy deployment.*
+### 📄 Document Scanner
+**Tech Stack:** React, TypeScript, Tesseract.js, jsPDF, TailwindCSS, Vite, Docker
+*A powerful document information extraction tool specialized for passports and driver's licenses, featuring accurate text extraction, PDF report generation, and local processing for privacy.*
 
 ### 📱 PostHub
 **Tech Stack:** Swift, SwiftUI
 *A dynamic SwiftUI application for viewing, liking, and interacting with posts, featuring robust error handling and mock data fallback.*
 
-### 🛒 RL E-commerce Project
+### 🛒 RL E-commerce
 **Tech Stack:** React (Vite + TypeScript), Redux Toolkit, Material UI, Node.js/Express, MongoDB
-*A full-stack e-commerce application with product, cart, and responsive UI, state management with Redux Toolkit, a Node.js/Express backend with MongoDB, and an implemented CI/CD pipeline with GitHub Actions workflow.*
+*A full-stack e-commerce application built with React (Vite + TypeScript), Redux Toolkit, Material UI, Node.js/Express, and MongoDB. It features product and cart management, responsive UI, state management, and a backend API, with an implemented CI/CD pipeline using GitHub Actions.*
+
+---
+
+
+## 🚀 DevOps
+
+I am currently learning DevOps and exploring tools like **Docker** and **Docker Compose**. I am also expanding my knowledge in CI/CD by learning to set up workflows with **GitHub Actions**.
 
 ---
 
@@ -46,11 +53,6 @@ Here are some of my favorite projects and what went into building them:
 
 I have worked with **Swift** and **SwiftUI** to build applications for Apple devices.
 
----
-
-## 🚀 DevOps
-
-I am currently learning DevOps and exploring tools like **Docker** and **Docker Compose**. I am also expanding my knowledge in CI/CD by learning to set up workflows with **GitHub Actions**.
 
 ---
 
