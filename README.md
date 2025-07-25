@@ -21,6 +21,8 @@ I have worked with Swift and SwiftUI to build applications for Apple devices.
 - System Design
 - iOS Development
 
+---
+
 ## 🚀 Major Projects
 
 Here are some of my favorite projects and what went into building them:
@@ -28,6 +30,7 @@ Here are some of my favorite projects and what went into building them:
 ### 💸 MERN Expense Tracker
 **Tech Stack:** MongoDB, Express.js, React, Node.js  
 *Track and visualize expenses in a modern web app. Add income/expenses, categorize transactions, and get real-time updates on totals with smooth UI and analytics.*
+
 
 ### 🌦️ Real-Time Weather Monitoring System
 **Tech Stack:** React, TypeScript, OpenWeatherMap API, Recharts, Docker, TailwindCSS 
