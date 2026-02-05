@@ -1,7 +1,6 @@
 # Hi, I'm Deepak! 👋
 
-Welcome to my GitHub! I'm a passionate tech enthusiast currently interning at **Relevance Lab**, where I work on **real-time systems, DevOps platforms, and AI-driven observability** 🚀🤖.  
-I enjoy building **scalable, fault-tolerant systems**, automating workflows, and applying **machine intelligence to solve infrastructure and reliability problems**. Whether it's designing robust architectures, streaming pipelines, or intelligent monitoring solutions, I’m always excited to tackle challenging problems and learn something new.
+Welcome to my GitHub! I'm a passionate tech enthusiast currently working at **Relevance Lab**, where I work on **real-time systems, DevOps platforms, and AI-driven observability** 🚀🤖.  I enjoy building **scalable, fault-tolerant systems**, automating workflows, and applying **machine intelligence to solve infrastructure and reliability problems**. Whether it's designing robust architectures, streaming pipelines, or intelligent monitoring solutions, I’m always excited to tackle challenging problems and learn something new.
 
 ---
 
